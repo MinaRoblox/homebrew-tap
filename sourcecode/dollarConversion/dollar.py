@@ -20,6 +20,7 @@ class App():
 
 Developed by minaroblox, creator of
 CLI-Engine, also installable with brew.
+Note that this only works with internet.
 
 """)
             print("Argument entered wasn't a number!")
@@ -51,7 +52,8 @@ CLI-Engine, also installable with brew.
             print("""
 
 Developed by minaroblox, creator of
-shellAI, also installable with brew.
+CLI-Engine, also installable with brew.
+Note that this only works with internet.
 
 """)
             print("Not enough arguments!")
@@ -67,6 +69,7 @@ shellAI, also installable with brew.
 
 Developed by minaroblox, creator of
 CLI-Engine, also installable with brew.
+Note that this only works with internet.
 
 """)
             print("Too much arguments!")
@@ -86,6 +89,7 @@ CLI-Engine, also installable with brew.
 
 Developed by minaroblox, creator of
 CLI-Engine, also installable with brew.
+Note that this only works with internet.
 
 """)
             else:
